@@ -19,7 +19,6 @@ using namespace std;
 // Solution Class
 class Solution {
     int ans;
-
 public:
     int distCandy(Node* root) {
         ans = 0;
