@@ -2,6 +2,7 @@
 #include <vector>
 using namespace std;
 
+// class solution
 class Solution {
 public:
     int maxWater(vector<int> &arr) {
